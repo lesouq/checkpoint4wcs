@@ -1,0 +1,22 @@
+#deconnexion_button{
+  margin-top: 250px!important;
+  /*margin-left: 630px!important;*/
+  background-color: #009688!important;
+  border-color: #009688!important;
+  font-family: 'Hind Vadodara', sans-serif !important;
+}
+
+#deconnexion_button:hover{
+
+	background-color: #2ecc71!important;
+
+}
+
+@media (max-width: 768px) {
+	
+  .deconnexion {	 
+	 margin-left: 100px!important;
+}
+
+
+}

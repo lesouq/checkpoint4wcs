@@ -1,0 +1,43 @@
+body {
+  font-family: 'Hind Vadodara', sans-serif;	
+  margin: 0;
+  padding: 0;
+  background-color:#5ca6ff !important;
+  
+}
+
+
+#login {
+  margin-top: 50px;
+
+}
+
+.container_img{
+margin-top: 20px;
+text-align: center;
+}
+
+.container_img img{
+width: 150px !important;
+height: 180px !important;
+}
+
+h3 {
+	font-family: 'Amatic SC', cursive !important;
+	font-size: 4em !important;
+	font-weight:600!important;
+	color: #000000!important;	
+}
+
+.form-group label{
+	color: #000000!important;
+}
+
+.total{
+	margin-top: 30px;
+}
+
+.btn{
+	background-color: #ff625a!important;
+	border: #ff625a!important;
+}
